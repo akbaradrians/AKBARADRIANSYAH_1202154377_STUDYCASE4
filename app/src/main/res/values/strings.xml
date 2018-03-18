@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AKBARADRIANSYAH_1202154377_STUDYCASE4</string>
+    <string-array name="namamahasiswa">
+        <item>David De Gea</item>
+        <item>Bailly</item>
+        <item>Rojo</item>
+        <item>Bara</item>
+        <item>Rashford</item>
+        <item>Sestina</item>
+        <item>Sapik</item>
+        <item>Wakanda</item>
+        <item>Sunggokong</item>
+        <item>Komseng</item>
+        <item>Lukaku</item>
+        <item>Bang Karni</item>
+        <item>Bang bang tut</item>
+    </string-array>
+</resources>
